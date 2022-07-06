@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/jgislaszapata/09-README-Generator#readme",
   "dependencies": {
-    "inquirer": "^9.0.0"
+    "inquirer": "^6.5.0"
   }
 }
