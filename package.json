@@ -1,0 +1,26 @@
+{
+  "name": "09-readme-generator",
+  "version": "1.0.0",
+  "description": "README generator powered by Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jgislaszapata/09-README-Generator.git"
+  },
+  "keywords": [
+    "README",
+    "Node.js"
+  ],
+  "author": "Jesus Islas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jgislaszapata/09-README-Generator/issues"
+  },
+  "homepage": "https://github.com/jgislaszapata/09-README-Generator#readme",
+  "dependencies": {
+    "inquirer": "^9.0.0"
+  }
+}
