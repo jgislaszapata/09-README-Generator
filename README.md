@@ -27,11 +27,17 @@ WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 ```
 
+## Installation
+In order to use this app to create a README, git clone this repo into your bash terminal.
+Next, run npm i inquirer to install the inquirer package (by default, the newest version of inquirer will be installed, at which point you should downgrade to an older version using the command 'npm install inquirer@6.5.0' to insure the application will work.)
+
 ## Project links:
 Link to Github repository: https://github.com/jgislaszapata/09-README-Generator
 
 Link to video demonstration: 
 
 ## Video Demonstration
+The following video shows a walk-through of the application in use:
+
 
 ## Project Author: Jesus Islas
