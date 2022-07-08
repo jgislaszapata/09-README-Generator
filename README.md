@@ -1,15 +1,13 @@
-## Week 9, README generator. 
+## Week 9, README generator.
 
-## Project Description 
-This project uses Node.js in order to create high-quality README files for user github projects. This program, which is run inside the bash terminal, will take user input using the inquirer package and generate a README with the relevant input. 
+## Project Description
+
+This project uses Node.js in order to create high-quality README files for user github projects. This program, which is run inside the bash terminal, will take user input using the inquirer package and generate a README with the relevant input.
 
 ## User Story
-AS a developer,
-I WANT a README generator
-SO THAT I can quickly create a professional README for a new project
+AS a developer, I WANT a README generator SO THAT I can quickly create a professional README for a new project
 
-## Acceptance Criteria 
-```md
+## Acceptance Criteria
 GIVEN a command-line application that accepts user input
 WHEN I am prompted for information about my application repository
 THEN a high-quality, professional README.md is generated with the title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions
@@ -25,19 +23,15 @@ WHEN I enter my email address
 THEN this is added to the section of the README entitled Questions, with instructions on how to reach me with additional questions
 WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
-```
-
-## Installation
-In order to use this app to create a README, git clone this repo into your bash terminal.
-Next, run npm i inquirer to install the inquirer package (by default, the newest version of inquirer will be installed, at which point you should downgrade to an older version using the command 'npm install inquirer@6.5.0' to insure the application will work.)
+Installation
+In order to use this app to create a README, git clone this repo into your bash terminal. Next, run npm i inquirer to install the inquirer package (by default, the newest version of inquirer will be installed, at which point you should downgrade to an older version using the command 'npm install inquirer@6.5.0' to insure the application will work.)
 
 ## Project links:
 Link to Github repository: https://github.com/jgislaszapata/09-README-Generator
 
-Link to video demonstration: 
+Link to video demonstration:
 
 ## Video Demonstration
 The following video shows a walk-through of the application in use:
-
 
 ## Project Author: Jesus Islas
