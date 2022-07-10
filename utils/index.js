@@ -2,7 +2,7 @@
 const fs = require('fs');
 const inquirer = require('inquirer');
 
-console.log('Program started...');
+console.log('Note: please install inquirer at version 6.5.0 (use command `npm install inquirer@6.5.0` to ensure program runs correctly.');
 
 // // TODO: Create an array of questions for user input
 const questions = [
